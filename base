@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<!--doctype informa aio agente de usuario a versão do HTML que vede ser
+renderizada -->
+<html lang="pt-br">
+    <head>
+        <title>Pagína de exemplo estrutura básica</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Ana">
+        <meta name="description" content="lisa de documentos">
+        <meta nam="keywords" content="html5, tecnologia">
+    </head>
+    <body>
+        <h1>Estrutura básica</h1>
+    </body>
+
+
+</html>
